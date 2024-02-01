@@ -1,0 +1,14 @@
+{
+  "name": "everything-app",
+  "private": true,
+  "description": "",
+  "scripts": {
+    "dev": "turbo dev",
+    "build": "turbo type-check  build"
+  },
+  "engines": {
+    "node": ">=18.16.1"
+  },
+  "author": "Juliano Sirtori",
+  "license": "MIT"
+}
